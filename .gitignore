@@ -1,0 +1,22 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Paquetes NuGet
+packages/
+*.nupkg
+# Si usas el nuevo formato de .csproj basado en PackageReferences, ignora global-packages
+.nuget/
+
+# Archivos de depuración y publicación
+*.pdb
+*.log
+publish/
+
+# Archivos de configuración local de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos temporales de Visual Studio
+*.tmp
