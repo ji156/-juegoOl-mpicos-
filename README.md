@@ -25,8 +25,6 @@
 - **Año:** 2024
 - **Lenguaje:** C#
 
-## 💡 Notas
-
 ## 🛠️ Tecnologías Utilizadas
 - C# .NET
 - Git
