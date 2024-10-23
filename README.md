@@ -26,7 +26,6 @@
 - **Lenguaje:** C#
 
 ## 💡 Notas
-Este proyecto es un intento de aplicar los principios SOLID.
 
 ## 🛠️ Tecnologías Utilizadas
 - C# .NET
