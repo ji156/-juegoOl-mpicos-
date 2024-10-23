@@ -16,7 +16,8 @@
 2. Registro de participantes.
 3. Simulación de eventos.
 4. Creación de informes.
-5. Salir del programa.
+5. Ver ranking de medallas
+6. Salir del programa.
 
 ## 👨‍💻 Autor
 - **Nombre:** Ji156
